@@ -1,2 +1,2 @@
 # VBA-Challenge
-My VBA  coding skills resides here
+My VBA Assignments
